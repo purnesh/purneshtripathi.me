@@ -74,16 +74,7 @@
 									<li><a href="<?php echo base_url('index.php/projects/keylogger_resist');?>">Keylogger Resist</a></li>
 									<li><a href="<?php echo base_url('index.php/projects/natural_log_zero');?>">Natural Log Zero</a></li>
 									<li><a href="<?php echo base_url('index.php/projects/atcad');?>">ATCAD</a></li>
-									<li>
-										<a href="">And a submenu &hellip;</a>
-										<ul>
-											<li><a href="#">Lorem ipsum dolor</a></li>
-											<li><a href="#">Phasellus consequat</a></li>
-											<li><a href="#">Magna phasellus</a></li>
-											<li><a href="#">Etiam dolore nisl</a></li>
-										</ul>
-									</li>
-									<li><a href="#">Veroeros feugiat</a></li>
+									<li><a href="<?php echo base_url('index.php/projects/details/IECS');?>">IECS</a></li>
 								</ul>
 							</li>
 							<li><a href="<?php echo base_url('index.php/contactme'); ?>">Contact Me</a></li>
