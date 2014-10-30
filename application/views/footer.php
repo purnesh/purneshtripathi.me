@@ -84,26 +84,26 @@
 								</header>
 								<div class="row quarter no-collapse">
 									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic10.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic10.jpg" alt="" /></a>
 									</div>
 									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic11.jpg" alt="" /></a>
-									</div>
-								</div>
-								<div class="row quarter no-collapse">
-									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic12.jpg" alt="" /></a>
-									</div>
-									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic13.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic11.jpg" alt="" /></a>
 									</div>
 								</div>
 								<div class="row quarter no-collapse">
 									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic14.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic12.jpg" alt="" /></a>
 									</div>
 									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic15.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic13.jpg" alt="" /></a>
+									</div>
+								</div>
+								<div class="row quarter no-collapse">
+									<div class="6u">
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic14.jpg" alt="" /></a>
+									</div>
+									<div class="6u">
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic15.jpg" alt="" /></a>
 									</div>
 								</div>
 							</section>
