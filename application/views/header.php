@@ -1,8 +1,28 @@
 
 <!DOCTYPE HTML>
 <!--
-	Helios by HTML5 UP
-	html5up.net | @n33co
+
+
+   ▄███████▄ ███    █▄     ▄████████ ███▄▄▄▄      ▄████████    ▄████████    ▄█    █▄    
+  ███    ███ ███    ███   ███    ███ ███▀▀▀██▄   ███    ███   ███    ███   ███    ███   
+  ███    ███ ███    ███   ███    ███ ███   ███   ███    █▀    ███    █▀    ███    ███   
+  ███    ███ ███    ███  ▄███▄▄▄▄██▀ ███   ███  ▄███▄▄▄       ███         ▄███▄▄▄▄███▄▄ 
+▀█████████▀  ███    ███ ▀▀███▀▀▀▀▀   ███   ███ ▀▀███▀▀▀     ▀███████████ ▀▀███▀▀▀▀███▀  
+  ███        ███    ███ ▀███████████ ███   ███   ███    █▄           ███   ███    ███   
+  ███        ███    ███   ███    ███ ███   ███   ███    ███    ▄█    ███   ███    ███   
+ ▄████▀      ████████▀    ███    ███  ▀█   █▀    ██████████  ▄████████▀    ███    █▀    
+                          ███    ███                                                    
+    ███        ▄████████  ▄█     ▄███████▄    ▄████████     ███        ▄█    █▄     ▄█  
+▀█████████▄   ███    ███ ███    ███    ███   ███    ███ ▀█████████▄   ███    ███   ███  
+   ▀███▀▀██   ███    ███ ███▌   ███    ███   ███    ███    ▀███▀▀██   ███    ███   ███▌ 
+    ███   ▀  ▄███▄▄▄▄██▀ ███▌   ███    ███   ███    ███     ███   ▀  ▄███▄▄▄▄███▄▄ ███▌ 
+    ███     ▀▀███▀▀▀▀▀   ███▌ ▀█████████▀  ▀███████████     ███     ▀▀███▀▀▀▀███▀  ███▌ 
+    ███     ▀███████████ ███    ███          ███    ███     ███       ███    ███   ███  
+    ███       ███    ███ ███    ███          ███    ███     ███       ███    ███   ███  
+   ▄████▀     ███    ███ █▀    ▄████▀        ███    █▀     ▄████▀     ███    █▀    █▀   
+              ███    ███                                                                
+
+	Purnesh Tripathi <purnesh.xyz@gmail.com>
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
@@ -48,7 +68,7 @@
 									<li><a href="<?php echo base_url('index.php/projects/details/keylogger_resist');?>">Keylogger Resist</a></li>
 									<li><a href="<?php echo base_url('index.php/projects/details/natural_log_zero');?>">Natural Log Zero</a></li>
 									<li><a href="<?php echo base_url('index.php/projects/details/atcad');?>">ATCAD</a></li>
-									<li><a href="<?php echo base_url('index.php/projects/details/IECS');?>">IECS</a></li>
+									<li><a href="<?php echo base_url('index.php/projects/details/iecs');?>">IECS</a></li>
 								</ul>
 							</li>
 							<li><a href="<?php echo base_url('index.php/contactme');?>">Contact Me</a></li>

@@ -74,7 +74,7 @@
 									<li><a href="<?php echo base_url('index.php/projects/keylogger_resist');?>">Keylogger Resist</a></li>
 									<li><a href="<?php echo base_url('index.php/projects/natural_log_zero');?>">Natural Log Zero</a></li>
 									<li><a href="<?php echo base_url('index.php/projects/atcad');?>">ATCAD</a></li>
-									<li><a href="<?php echo base_url('index.php/projects/details/IECS');?>">IECS</a></li>
+									<li><a href="<?php echo base_url('index.php/projects/details/iecs');?>">IECS</a></li>
 								</ul>
 							</li>
 							<li><a href="<?php echo base_url('index.php/contactme'); ?>">Contact Me</a></li>
