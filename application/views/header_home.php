@@ -66,7 +66,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="<?php echo base_url();?>">Home</a></li>
+							<li><a href="<?php echo base_url();?>"><i class="icon-home"></i>Home</a></li>
 							<li><a href="<?php echo base_url('index.php/aboutme');?>">About Me</a></li>
 							<li>
 								<a href="<?php echo base_url('index.php/projects');?>">Projects</a>
