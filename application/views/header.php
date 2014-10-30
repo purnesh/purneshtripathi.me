@@ -7,7 +7,7 @@
 -->
 <html>
 	<head>
-		<title>No Sidebar - Helios by HTML5 UP</title>
+		<title><?php echo $title;?></title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -33,10 +33,9 @@
 				<!-- Inner -->
 					<div class="inner">
 						<header>
-							<h1><a href="<?php echo base_url();?>" id="logo">Purnesh Tripathi</a></h1>
+							<h1><a href="<?php echo base_url();?>" id="logo"><?php echo $name;?></a></h1>
 						</header>
 					</div>
-
 
 				<!-- Nav -->
 					<nav id="nav">
@@ -44,11 +43,11 @@
 							<li><a href="<?php echo base_url();?>">Home</a></li>
 							<li><a href="<?php echo base_url('index.php/aboutme');?>">About Me</a></li>
 							<li>
-								<a href="right-sidebar.html">Projects</a>
+								<a href="<?php echo base_url('index.php/projects');?>">Projects</a>
 								<ul>
-									<li><a href="#">Lorem ipsum dolor</a></li>
-									<li><a href="#">Magna phasellus</a></li>
-									<li><a href="#">Etiam dolore nisl</a></li>
+									<li><a href="<?php echo base_url('index.php/projects/keylogger_resist');?>">Keylogger Resist</a></li>
+									<li><a href="<?php echo base_url('index.php/projects/natural_log_zero');?>">Natural Log Zero</a></li>
+									<li><a href="<?php echo base_url('index.php/projects/atcad');?>">ATCAD</a></li>
 									<li>
 										<a href="">And a submenu &hellip;</a>
 										<ul>
@@ -61,8 +60,9 @@
 									<li><a href="#">Veroeros feugiat</a></li>
 								</ul>
 							</li>
-							<li><a href="no-sidebar.html">Contact Me</a></li>
+							<li><a href="<?php echo base_url('index.php/contactme');?>">Contact Me</a></li>
 						</ul>
 					</nav>
+
 			</div>
 			

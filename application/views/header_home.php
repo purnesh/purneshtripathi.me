@@ -51,7 +51,7 @@
 				<!-- Inner -->
 					<div class="inner">
 						<header>
-							<h1><a href="index.html" id="logo">Purnesh Tripathi</a></h1>
+							<h1><a href="<?php echo base_url();?>" id="logo">Purnesh Tripathi</a></h1>
 							<hr />
 							<p>You are born with nothing, but you die with a name.
 							<br /> So that name should not be just a name, it should be a <br />
@@ -62,17 +62,18 @@
 						</footer>
 					</div>
 
+
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="index.html">Home</a></li>
+							<li><a href="<?php echo base_url();?>">Home</a></li>
 							<li><a href="<?php echo base_url('index.php/aboutme');?>">About Me</a></li>
 							<li>
-								<a href="right-sidebar.html">Projects</a>
+								<a href="<?php echo base_url('index.php/projects');?>">Projects</a>
 								<ul>
-									<li><a href="#">Lorem ipsum dolor</a></li>
-									<li><a href="#">Magna phasellus</a></li>
-									<li><a href="#">Etiam dolore nisl</a></li>
+									<li><a href="<?php echo base_url('index.php/projects/keylogger_resist');?>">Keylogger Resist</a></li>
+									<li><a href="<?php echo base_url('index.php/projects/natural_log_zero');?>">Natural Log Zero</a></li>
+									<li><a href="<?php echo base_url('index.php/projects/atcad');?>">ATCAD</a></li>
 									<li>
 										<a href="">And a submenu &hellip;</a>
 										<ul>
@@ -85,7 +86,7 @@
 									<li><a href="#">Veroeros feugiat</a></li>
 								</ul>
 							</li>
-							<li><a href="no-sidebar.html">Contact Me</a></li>
+							<li><a href="<?php echo base_url('index.php/contactme'); ?>">Contact Me</a></li>
 						</ul>
 					</nav>
 
