@@ -14,7 +14,7 @@
 				<div class="reel">
 
 					<article>
-						<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic01.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Pulvinar sagittis congue</a></h3>
 						</header>
@@ -22,7 +22,7 @@
 					</article>
 				
 					<article>
-						<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic02.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Fermentum sagittis proin</a></h3>
 						</header>
@@ -30,7 +30,7 @@
 					</article>
 				
 					<article>
-						<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic03.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Sed quis rhoncus placerat</a></h3>
 						</header>
@@ -38,7 +38,7 @@
 					</article>
 				
 					<article>
-						<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic04.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Ultrices urna sit lobortis</a></h3>
 						</header>
@@ -46,7 +46,7 @@
 					</article>
 				
 					<article>
-						<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic05.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Varius magnis sollicitudin</a></h3>
 						</header>
@@ -54,7 +54,7 @@
 					</article>
 
 					<article>
-						<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic01.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Pulvinar sagittis congue</a></h3>
 						</header>
@@ -62,7 +62,7 @@
 					</article>
 				
 					<article>
-						<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic02.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Fermentum sagittis proin</a></h3>
 						</header>
@@ -70,7 +70,7 @@
 					</article>
 				
 					<article>
-						<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic03.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Sed quis rhoncus placerat</a></h3>
 						</header>
@@ -78,7 +78,7 @@
 					</article>
 				
 					<article>
-						<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic04.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Ultrices urna sit lobortis</a></h3>
 						</header>
@@ -86,7 +86,7 @@
 					</article>
 				
 					<article>
-						<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic05.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Varius magnis sollicitudin</a></h3>
 						</header>
@@ -100,7 +100,7 @@
 			<div class="wrapper style2">
 
 				<article id="main" class="container special">
-					<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
+					<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic06.jpg" alt="" /></a>
 					<header>
 						<h2><a href="#">Sed massa imperdiet magnis</a></h2>
 						<p>
@@ -135,7 +135,7 @@
 					</header>
 					<div class="row">
 						<article class="4u special">
-							<a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic07.jpg" alt="" /></a>
 							<header>
 								<h3><a href="#">Gravida aliquam penatibus</a></h3>
 							</header>
@@ -145,7 +145,7 @@
 							</p>
 						</article>
 						<article class="4u special">
-							<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic08.jpg" alt="" /></a>
 							<header>
 								<h3><a href="#">Sed quis rhoncus placerat</a></h3>
 							</header>
@@ -155,7 +155,7 @@
 							</p>
 						</article>
 						<article class="4u special">
-							<a href="#" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic09.jpg" alt="" /></a>
 							<header>
 								<h3><a href="#">Magna laoreet et aliquam</a></h3>
 							</header>
@@ -255,26 +255,26 @@
 								</header>
 								<div class="row quarter no-collapse">
 									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic10.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic10.jpg" alt="" /></a>
 									</div>
 									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic11.jpg" alt="" /></a>
-									</div>
-								</div>
-								<div class="row quarter no-collapse">
-									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic12.jpg" alt="" /></a>
-									</div>
-									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic13.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic11.jpg" alt="" /></a>
 									</div>
 								</div>
 								<div class="row quarter no-collapse">
 									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic14.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic12.jpg" alt="" /></a>
 									</div>
 									<div class="6u">
-										<a href="#" class="image fit"><img src="images/pic15.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic13.jpg" alt="" /></a>
+									</div>
+								</div>
+								<div class="row quarter no-collapse">
+									<div class="6u">
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic14.jpg" alt="" /></a>
+									</div>
+									<div class="6u">
+										<a href="#" class="image fit"><img src="<?php echo base_url("content/images");?>/pic15.jpg" alt="" /></a>
 									</div>
 								</div>
 							</section>
