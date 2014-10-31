@@ -28,38 +28,34 @@
 				
 				<section id="features" class="container special" id="features">
 					<header>
-						<h2>Morbi ullamcorper et varius leo lacus</h2>
-						<p>Ipsum volutpat consectetur orci metus consequat imperdiet duis integer semper magna.</p>
+						<h2>Happiness is a journey, not a destination!</h2> <br /> <br /> 
 					</header>
 					<div class="row">
 						<article class="4u special">
 							<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic07.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#">Gravida aliquam penatibus</a></h3>
+								<h3><a href="#">Blogger</a></h3>
 							</header>
 							<p>
-								Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-								porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								At times, I like to blog. Although, there have been very few posts in the last two years, but still I find it better to be an infrequent blogger, than not being one at all! 
 							</p>
 						</article>
 						<article class="4u special">
 							<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic08.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#">Sed quis rhoncus placerat</a></h3>
+								<h3><a href="#">Music Lover</a></h3>
 							</header>
 							<p>
-								Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-								porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								There are times when I need absolute peace, that is something I look for, in music. I like listening to soft rock and semi-classical music genres. On another note, I am also learning to play flute. 
 							</p>
 						</article>
 						<article class="4u special">
 							<a href="#" class="image featured"><img src="<?php echo base_url("content/images");?>/pic09.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#">Magna laoreet et aliquam</a></h3>
+								<h3><a href="#">Thinker</a></h3>
 							</header>
 							<p>
-								Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-								porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								When I am doing nothing, I like to think. Due to this habit that I had engendered at a very early age, I sometimes find it very difficult to rest. I think on varying topics starting from politics, social issues to the next generation of human race etc. :) 
 							</p>
 						</article>
 					</div>
